@@ -1,5 +1,10 @@
+# system files
 .idea
 .DS_Store
+
+# generated
+public/js
+public/img
 
 # Logs
 logs
